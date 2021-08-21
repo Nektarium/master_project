@@ -13,5 +13,3 @@ class Comment extends Model
         return $this->belongsTo(BlogPost::class);
     }
 }
-//dddfff
-//dsbgnthngbf
