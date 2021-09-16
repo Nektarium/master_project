@@ -1,4 +1,19 @@
 {
     "workbench.colorTheme": "Umbra",
-    "workbench.preferredDarkColorTheme": "Umbra"
+    "workbench.preferredDarkColorTheme": "Umbra",
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 8889,
+            "askForPassword": true,
+            "driver": "MySQL",
+            "name": "MySQL",
+            "username": "root",
+            "database": "master_project"
+        }
+    ]
 }
